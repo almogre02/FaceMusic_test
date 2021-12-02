@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "596895509304",
+    "project_id": "facemusic-12bd2",
+    "storage_bucket": "facemusic-12bd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596895509304:android:f4bc14967ab5fec210efcd",
+        "android_client_info": {
+          "package_name": "com.example.facemusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596895509304-uvmnacj15ca0p64aj6do3p08od6iqk44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUy76ixLhoSf6A1_6g6S01ErUpNHpbWO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596895509304-uvmnacj15ca0p64aj6do3p08od6iqk44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
