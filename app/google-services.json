@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "596895509304",
-    "project_id": "facemusic-12bd2",
-    "storage_bucket": "facemusic-12bd2.appspot.com"
+    "project_number": "353753572506",
+    "project_id": "face-c2bc7",
+    "storage_bucket": "face-c2bc7.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:596895509304:android:f4bc14967ab5fec210efcd",
+        "mobilesdk_app_id": "1:353753572506:android:5cdbfc7db798414a78ab23",
         "android_client_info": {
-          "package_name": "com.example.facemusic"
+          "package_name": "com.lampa.emotionrecognition"
         }
       },
       "oauth_client": [
         {
-          "client_id": "596895509304-uvmnacj15ca0p64aj6do3p08od6iqk44.apps.googleusercontent.com",
+          "client_id": "353753572506-lmlsaenhb27s61bf2gkkm7lfdenjn53t.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBUy76ixLhoSf6A1_6g6S01ErUpNHpbWO0"
+          "current_key": "AIzaSyBS_kHD8jS6dGo_WXSLx6radRhlRchAnP8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "596895509304-uvmnacj15ca0p64aj6do3p08od6iqk44.apps.googleusercontent.com",
+              "client_id": "353753572506-lmlsaenhb27s61bf2gkkm7lfdenjn53t.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
