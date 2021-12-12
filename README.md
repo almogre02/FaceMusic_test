@@ -1,5 +1,5 @@
 # FaceMusic
-This repository represents an android application performing recognition of facial emotions on an image.  
+This app detects your emotions based on your picture and creates playlists according to your mood.  
 
 ## The application
 To detect faces on an image the application uses [ML Kit](https://developers.google.com/ml-kit).
