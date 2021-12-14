@@ -87,9 +87,13 @@
         app:layout_constraintVertical_bias="0.868" />
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 
+=======
+</androidx.constraintlayout.widget.ConstraintLayout>
+>>>>>>> parent of b1f328a (add face rec code and start ditection btn)
 =======
 </androidx.constraintlayout.widget.ConstraintLayout>
 >>>>>>> parent of b1f328a (add face rec code and start ditection btn)
