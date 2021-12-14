@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 
 import com.google.firebase.auth.FirebaseAuth;
+import com.lampa.emotionrecognition.R;
 
 public class WelcomeActivity extends AppCompatActivity {
 
