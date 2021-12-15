@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # FaceMusic
 This app detects your emotions based on your picture and creates playlists according to your mood.  
 
@@ -11,6 +12,9 @@ The model provide output that consist of probabilities for each class: angry, di
 <img src="/images/example.png" width="288" height="512">
 
 
+=======
+# FaceMusic
+>>>>>>> parent of b1f328a (add face rec code and start ditection btn)
 =======
 # FaceMusic
 >>>>>>> parent of b1f328a (add face rec code and start ditection btn)

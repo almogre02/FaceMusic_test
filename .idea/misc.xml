@@ -5,6 +5,7 @@
       <map>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         <entry key="..\:/Users/Omer/EmotionRecognition/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Omer/EmotionRecognition/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Omer/EmotionRecognition/app/src/main/res/layout/activity_welcome.xml" value="0.36666666666666664" />
@@ -18,6 +19,10 @@
         <entry key="..\:/Users/almog/AndroidStudioProjects/FaceMusic2/app/src/main/res/layout/activity_login.xml" value="0.3" />
         <entry key="..\:/Users/almog/AndroidStudioProjects/FaceMusic2/app/src/main/res/layout/activity_main.xml" value="0.3" />
         <entry key="..\:/Users/almog/AndroidStudioProjects/FaceMusic2/app/src/main/res/layout/activity_welcome.xml" value="0.3" />
+=======
+        <entry key="..\:/Users/almog/AndroidStudioProjects/FaceMusic2/app/src/main/res/layout/activity_login.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/almog/AndroidStudioProjects/FaceMusic2/app/src/main/res/layout/activity_welcome.xml" value="0.20520833333333333" />
+>>>>>>> parent of b1f328a (add face rec code and start ditection btn)
 =======
         <entry key="..\:/Users/almog/AndroidStudioProjects/FaceMusic2/app/src/main/res/layout/activity_login.xml" value="0.20520833333333333" />
         <entry key="..\:/Users/almog/AndroidStudioProjects/FaceMusic2/app/src/main/res/layout/activity_welcome.xml" value="0.20520833333333333" />
