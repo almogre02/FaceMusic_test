@@ -2,7 +2,7 @@
 # FaceMusic
 This app detects your emotions based on your picture and creates playlists according to your mood.  
 
-## The classification (by CNN model)
+## The classification
 To detect faces on an image the application uses [ML Kit](https://developers.google.com/ml-kit).
 After detection complete the face image area converted into greyscale 48*48 pixel format, each pixel represents as [0, 1] float number.
 Finally, converted area fed to the [TensorFlow Light](https://www.tensorflow.org/lite/guide) convolutional neural network model (simple_classifier.tflite).
